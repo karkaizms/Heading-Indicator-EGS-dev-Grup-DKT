@@ -1,2 +1,2 @@
-# Heading-Indicator-EGS-dev-Grup-DKT
+# Heading-Indicator-EGS-Grup-DKT
 EGS A GRUBU DKT TAKIMI HEADING INDICATOR ÇALIŞMASI
